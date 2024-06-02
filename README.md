@@ -32,3 +32,7 @@ Optional arguments:
     --offset           Initial time step.
     --v_h_dim          Vector features - hidden dimensions.
     --s_h_dim          Scalar features - hidden dimensions.
+
+
+### Note 
+Check [Github repository](https://github.com/kanz76/FloodGNN-GRU.git) for updates. 
