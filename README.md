@@ -18,7 +18,7 @@ The data can be found [here](https://zenodo.org/records/10787632?token=eyJhbGciO
 Details about the data can be found in the jupyter notebook [data_exploration.ipynb](./data_exploration.ipynb)
 
 ## Usage
-    python train.py <parameters>  
+    python train.py   
 
 
 Optional arguments:
