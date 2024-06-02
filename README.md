@@ -21,4 +21,14 @@ Details about the data can be found in the jupyter notebook [data_exploration.ip
     python train.py <parameters>  
 
 
-parameters can 
+Optional arguments:
+
+    --time_steps       Total number of time steps.
+    --drop             Dropout probability.
+    --batch_size       Batch size.
+    --weight_decay 
+    --n_epochs         Number of epochs.
+    --lr               Learing rate.
+    --offset           Initial time step.
+    --v_h_dim          Vector features - hidden dimensions.
+    --s_h_dim          Scalar features - hidden dimensions.
