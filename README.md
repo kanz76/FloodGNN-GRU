@@ -1,5 +1,7 @@
 # FloodGNN-GRU
 
+[![DOI](https://zenodo.org/badge/809192839.svg)](https://zenodo.org/doi/10.5281/zenodo.11416792)
+
 Source code for ["FloodGNN-GRU: A Spatio-Temporal Graph Neural Network for Flood Prediction"](). 
 
 ![framework](./figs/floodgnn-gru-framework.png)
